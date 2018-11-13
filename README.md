@@ -38,6 +38,11 @@ There are two options to uninstall Brooklyn from your MacBook.
 
 Brooklyn is written in Swift, which requires OS X Mavericks (10.9) or above.
 
+## Troubleshooting 🔨
+
+#### Double clicking or trying to open the downloaded file doesn't do anything
+- Repeat the installation steps, but make sure you download the file with Safari.
+
 ## Contributing  🙌 
 
 Feel free to contribute to this project by providing [ideas](https://github.com/pedrommcarrasco/Brooklyn/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or opening [pull requests](https://github.com/pedrommcarrasco/Brooklyn/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) with new features or solving an existing issue.
